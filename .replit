@@ -1,0 +1,5 @@
+entrypoint = "main.bas"
+modules = ["qbasic:v2-20230623-0b7a606"]
+
+[nix]
+channel = "stable-23_05"
